@@ -43,6 +43,7 @@
             <input type="file" class="form-control" name="image" />
 
             <button type="submit" class="btn btn-outline-dark">Subir</button>
+            
         </form>
 
 @endsection
